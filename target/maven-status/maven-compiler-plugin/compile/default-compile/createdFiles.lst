@@ -1,0 +1,5 @@
+com\continua2\idat\Badajos\Rojas\Nicolas\BajadasRojasNicolasApplication.class
+com\continua2\idat\Badajos\Rojas\Nicolas\controller\CourseController.class
+com\continua2\idat\Badajos\Rojas\Nicolas\models\Course.class
+com\continua2\idat\Badajos\Rojas\Nicolas\repository\ICourse.class
+com\continua2\idat\Badajos\Rojas\Nicolas\controller\BaseController.class
