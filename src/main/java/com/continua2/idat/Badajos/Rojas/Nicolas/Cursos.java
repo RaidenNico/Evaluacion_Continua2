@@ -28,7 +28,7 @@ public class Cursos {
     }
 
     @GetMapping(path="/ver/{id}")
-    public @ResponseBody Cursos_Modelos getUser(@PathVariable Integer id) {
+    public @ResponseBody Cursos_Modelos getCurso(@PathVariable Integer id) {
         return _repositorio.findById(id).get();
     }
 
