@@ -46,4 +46,3 @@ curso=Java
 DELETE https://badajos-rojas-nicolas.onrender.com/api/curso/eliminar/id HTTP/1.1
 Content-Type: application/x-www-form-urlencoded
 
-id=1
